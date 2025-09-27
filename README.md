@@ -1,51 +1,70 @@
-🚴 Bike Showroom Web App
+# Getting Started with Create React App
 
-Effortlessly discover and purchase bikes with this sleek showroom web application. Built for both buyers and sellers, this app provides seamless product management, insightful analytics, and intuitive user controls.
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-🚀 Features
+## Available Scripts
 
-CRUD Operations for Products: Add, update, delete, and manage products with ease.
+In the project directory, you can run:
 
-Dashboard with Analytics: Get real-time product display with counters and insights.
+### `npm start`
 
-Product Listing Page: Browse available bikes with detailed information.
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-Seller Menu: Allows sellers to add and manage their products efficiently.
+The page will reload when you make changes.\
+You may also see any lint errors in the console.
 
-Admin Menu: Enables administrators to add and manage users.
+### `npm test`
 
-Reports & Analytics: Generate reports to track inventory, sales, and other key metrics.
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-🛠️ Tech Stack
+### `npm run build`
 
-Frontend: [React, Vite]
-Backend: [Node.js, Express]
-Database: [MongoDB]
-Authentication: [JWT]
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
 
-📦 Installation & Setup
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
 
-Clone the repository
-Install dependencies
-npm install
-Run the development server
-npm start
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-Backend Setup
-goto src/server
-node server
-Access the app
+### `npm run eject`
 
-Open http://localhost:3000 in your browser
+**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-🤝 Contributing
-Feel free to submit issues or pull requests to improve the project!
+If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-📜 License
-This project is licensed under the MIT License.
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-⭐ If you like this project, give it a star on GitHub!
+You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-![12](https://github.com/Yahya123-hub/Bike-Showroom-Web-Application/assets/114072734/a5bd0e94-2816-4c25-96bf-726bccf6a31b)
-![13](https://github.com/Yahya123-hub/Bike-Showroom-Web-Application/assets/114072734/49aaf793-db08-4939-9dd7-3fd6206252be)
-![14](https://github.com/Yahya123-hub/Bike-Showroom-Web-Application/assets/114072734/40e4fc7b-ec02-4bee-bd7c-9470637a8541)
+## Learn More
+
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+
+To learn React, check out the [React documentation](https://reactjs.org/).
+
+### Code Splitting
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+
+### Analyzing the Bundle Size
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+
+### Making a Progressive Web App
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+
+### Advanced Configuration
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+
+### Deployment
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+
+### `npm run build` fails to minify
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
